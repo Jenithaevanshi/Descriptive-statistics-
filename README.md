@@ -1,1 +1,1 @@
-# Descriptive-statistics-
+# Descriptive-statistics-In this i used pandas, numpy , matplotlib and seaborn libraries.I tried to use all the statistical function such as mean,median, mode, variance, SD, quartile, IRQ. Even i used some plot such as scatter plot, box plot, bar and histogram to visualize the data.
